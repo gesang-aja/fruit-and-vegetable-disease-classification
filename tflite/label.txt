@@ -1,0 +1,6 @@
+Apple__Healthy
+Apple__Rotten
+Banana__Healthy
+Banana__Rotten
+Bellpepper__Healthy
+Bellpepper__Rotten
