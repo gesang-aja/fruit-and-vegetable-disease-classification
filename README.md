@@ -17,14 +17,6 @@ This project is developed as part of a **Dicoding / Bangkit Machine Learning sub
 
 ---
 
-## 👤 Author Information
-
-* **Name**: Gesang Nur Zamroji
-* **Email**: [gesang.23145@mhs.unesa.ac.id](mailto:gesang.23145@mhs.unesa.ac.id) | [m284d5y0685@student.devacademy.id](mailto:m284d5y0685@student.devacademy.id)
-* **Dicoding ID**: M284D5Y0685
-
----
-
 ## 📂 Dataset
 
 * **Source**: Kaggle – *Fruit and Vegetable Diseases Dataset (Healthy vs Rotten)*
