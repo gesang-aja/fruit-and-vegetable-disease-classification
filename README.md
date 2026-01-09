@@ -107,7 +107,6 @@ The model demonstrates **excellent generalization** with minimal overfitting.
 * Training vs Validation Accuracy
 * Training vs Validation Loss
 <img width="1790" height="790" alt="image" src="https://github.com/user-attachments/assets/931aa497-b270-4e55-a64b-7ab789cc630a" />
-<img width="1790" height="790" alt="image" src="https://github.com/user-attachments/assets/410f68aa-7ce5-410c-bcbb-ec0649b48008" />
 
 
 
