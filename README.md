@@ -106,6 +106,10 @@ The model demonstrates **excellent generalization** with minimal overfitting.
 
 * Training vs Validation Accuracy
 * Training vs Validation Loss
+<img width="1790" height="790" alt="image" src="https://github.com/user-attachments/assets/931aa497-b270-4e55-a64b-7ab789cc630a" />
+<img width="1790" height="790" alt="image" src="https://github.com/user-attachments/assets/410f68aa-7ce5-410c-bcbb-ec0649b48008" />
+
+
 
 Used to monitor convergence and detect overfitting.
 
@@ -145,6 +149,9 @@ submission_export.zip
 ## 🔍 Inference (Optional)
 
 The project includes **TFLite inference testing** using sample test images to verify real-world usability.
+<img width="323" height="411" alt="image" src="https://github.com/user-attachments/assets/0ee851e9-697a-4884-a1ed-73e93f0d4a87" />
+<img width="417" height="411" alt="image" src="https://github.com/user-attachments/assets/bfedf676-44a7-44fd-8f93-2e5d1af983e1" />
+
 
 ---
 
